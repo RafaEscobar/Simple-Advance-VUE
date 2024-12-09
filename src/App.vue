@@ -4,6 +4,7 @@
 
 <template>
     <Navigation />
+    <RouterView />
 </template>
 
 <style scoped>
